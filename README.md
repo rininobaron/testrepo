@@ -1,3 +1,3 @@
 # testrepo
 
-This repo is a toy repos.
+This repo is a toy repo.
